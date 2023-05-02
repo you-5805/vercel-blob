@@ -1,0 +1,8 @@
+.next/
+*.log
+.DS_Store
+node_modules/
+public/*.js
+public/*.map
+.env
+cypress/screenshots
